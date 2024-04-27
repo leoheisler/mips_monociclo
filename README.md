@@ -1,7 +1,7 @@
 # mips_monociclo
-Trabalho de OrgB - mips monociclo \n
-Instruções adicionadas à arquitetura:\n
-JAL  - Jump and link\n
-BLTZ - Branch Less than Equal\n
-LH   - Load Half\n
-Mult - Multiply\n
+Trabalho de OrgB - mips monociclo  <br />
+Instruções adicionadas à arquitetura:<br />
+JAL  - Jump and link<br />
+BLTZ - Branch Less than Equal<br />
+LH   - Load Half<br />
+Mult - Multiply<br />
